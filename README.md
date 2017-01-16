@@ -1,1 +1,3 @@
-# working-with-sqlite
+# Project: Working with SQLite
+
+### Work in Progress
